@@ -11,7 +11,7 @@ const MainLayout = styled(Layout)`
 `;
 
 const InsideLayout = styled(Layout)`
-  width: 500px;
+  width: 700px;
 `;
 
 function MainPage() {
